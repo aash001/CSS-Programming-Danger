@@ -3,11 +3,16 @@ background-color: purple;
 padding: 24px;
 font-size: 24px;
 color:white;
-margin:0;
+margin-top: 0;
 font:bold;
 }
 
 p {
 width:300px;
-text-align: center;   
+text-align: center;
+padding:24px
+}
+
+#warning {
+    color:red;
 }
